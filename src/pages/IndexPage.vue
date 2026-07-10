@@ -2,7 +2,7 @@
   <q-page class="flex flex-center">
     <div class="column items-center">
       <img
-        alt="Quasar logo"
+        alt="Hello Word ALLAH LOVE YOU"
         src="~@/assets/67-3x.gif"
         style="width: 400px; height: 200px"
       />
