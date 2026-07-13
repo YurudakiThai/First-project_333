@@ -32,10 +32,14 @@
     "autoprefixer": "^10.4.27",
     "oxfmt": "^0.x",
     "oxlint": "^1.x",
-    "postcss": "^8.5.8"
+    "postcss": "^8.5.8",
+    "@types/bun": "latest"
   },
   "engines": {
     "node": ">= 26 || ^24 || ^22.12"
   },
-  "productName": "Qua_app"
+  "productName": "Qua_app",
+  "peerDependencies": {
+    "typescript": "^5"
+  }
 }

@@ -8,7 +8,7 @@
       </video>
       <div class = "video-overlay-content">
         <img
-        alt="Hello Word ALLAH LOVE YOU"
+        alt="We Love Vegito"
         src="~@/assets/Quasar-logo-vertical.svg"
         style="width: 400px; height: 200px"
         />
