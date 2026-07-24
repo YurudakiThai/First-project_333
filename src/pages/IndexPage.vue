@@ -1,13 +1,22 @@
 <template>
  <div class="q-pa-md">
+<<<<<<< HEAD
+  <div class="teal " style="max-width: 300px">
+    <q-input color="purple-12" v-model="text" label="Label">
+=======
   <div class="q-gutter-y-md column" style="max-width: 300px">
-    <q-input color="purple-12" v-model="text" label="Label (ชื่อ Gojo)">
+    <q-input color="teal" v-model="text" label="Label">
+>>>>>>> hotfix
       <template v-slot:prepend>
         <q-icon name="event" />
       </template>
     </q-input>
 
-    <q-input color="teal" filled v-model="text" label="(นามสกุล Zatoru)">
+<<<<<<< HEAD
+    <q-input color="q-gutter-y-md column" filled v-model="text" label="Label">
+=======
+    <q-input color="purple-12" filled v-model="text" label="Label">
+>>>>>>> hotfix
       <template v-slot:prepend>
         <q-icon name="event" />
       </template>
@@ -70,5 +79,9 @@
 <script setup>
   import { ref } from 'vue'
 
+<<<<<<< HEAD
+  const text = ref('')
+=======
 const text = ref('')
+>>>>>>> hotfix
 </script>
