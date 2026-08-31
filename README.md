@@ -1,5 +1,7 @@
 # Qua_app (qrasr_project)
 
+# Delete Leg iss53 on repository
+
 ## Install the dependencies
 
 ```bash
@@ -22,4 +24,5 @@ quasar build
 ### Customize the configuration
 
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-file).
+
 # VersionControl
