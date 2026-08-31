@@ -1,6 +1,6 @@
 # Qua_app (qrasr_project)
 
-# Delete Leg iss53 on repository
+# Delete Leg iss53 and master on repository
 
 ## Install the dependencies
 
