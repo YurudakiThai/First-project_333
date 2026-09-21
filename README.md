@@ -4,6 +4,8 @@
 
 # Delete Hotfix
 
+-- Delete thai-lang
+
 ## Install the dependencies
 
 ```bash
